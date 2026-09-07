@@ -1,0 +1,7 @@
+[project]
+name = "softseclab0"
+version = "0.1.0"
+description = "A simple Flask API"
+dependencies = [
+    "Flask",
+]

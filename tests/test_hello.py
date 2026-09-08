@@ -11,4 +11,3 @@ def test_hello_one_l():
     client = app.test_client()
     response = client.get("/helo")
     assert response.status_code == 404
-    
